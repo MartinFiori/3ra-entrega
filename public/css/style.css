@@ -1,0 +1,8 @@
+.info{
+    visibility: hidden;
+}
+
+.chatMessage{
+    display: flex;
+    flex-direction: row;
+}
